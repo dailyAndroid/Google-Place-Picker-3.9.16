@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google Place Picker</string>
+
+    <string name="google_api_key">AIzaSyDoSiSgkZ0nILlx26Jqet2RR-L9NzDYCHQ</string>
+</resources>
